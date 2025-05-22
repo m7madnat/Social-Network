@@ -23,7 +23,7 @@ A full-featured social networking web app inspired by Facebook. This project inc
 ## 🛠️ Tech Stack
 
 **Frontend:**
-- JavaScript (Vue.js / Next.js / Svelte - your choice)
+- JavaScript (Vue.js)
 - HTML5 & CSS3
 - Axios for HTTP requests
 - WebSockets for real-time chat
@@ -39,5 +39,3 @@ A full-featured social networking web app inspired by Facebook. This project inc
 **DevOps:**
 - Docker
 - Docker Compose
-- Caddy (optional) for serving frontend and backend
-
